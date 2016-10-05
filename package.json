@@ -1,6 +1,6 @@
 {
   "name": "timezone-offset",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple module for getting a client's timezone offset number.",
   "main": "index.js",
   "scripts": {
