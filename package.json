@@ -13,5 +13,6 @@
     "offset"
   ],
   "author": "Ean Platter",
+  "repository": "https://github.com/eanplatter/timezone-offset",
   "license": "MIT"
 }
