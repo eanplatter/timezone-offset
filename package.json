@@ -1,0 +1,17 @@
+{
+  "name": "timezone-offset",
+  "version": "0.0.1",
+  "description": "A simple module for getting a client's timezone offset number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timezone",
+    "timezone",
+    "offset",
+    "offset"
+  ],
+  "author": "Ean Platter",
+  "license": "MIT"
+}
