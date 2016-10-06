@@ -1,6 +1,6 @@
 #Timezone Offset
 
-Use this in a browser, it will get your offset for you formatted like this: "-06:00".
+This will get your offset for you formatted like this: "-06:00".
 
 ## Installation
 To install just run `npm i --save timezone-offset` in your terminal.
